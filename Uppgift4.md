@@ -9,7 +9,6 @@ Använd dig av det du har lärt dig om box-model för att anpassa din sida.
 
 # Följande styling ska finnas med external css
 Några av nedanstående:
-
 1. Padding  
 2. Margin  
 3. Border  

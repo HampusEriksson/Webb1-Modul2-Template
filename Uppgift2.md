@@ -6,7 +6,7 @@ Se denna video mellan 0-13min https://www.youtube.com/watch?v=QgxkYbGr2II
 Lär dig om vilka “selectors” som finns i CSS, alltså hur man kommer åt element: https://marksheet.io/css-selectors.html  svara sedan på följande frågor nedan.
 
 # Lektionsövning
-Vi kommer köra spelet https://flukeout.github.io/ genom exam.net
+Vi kommer köra spelet https://flukeout.github.io/
 
 # Uppgifter 
 1. Lägg till minst en <p> med relevant text
