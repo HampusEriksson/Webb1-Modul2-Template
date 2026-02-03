@@ -1,4 +1,4 @@
-# Uppgift 6 - Position
+# Uppgift 6 – Position
 
 # Teori
 Kolla på video: https://www.youtube.com/watch?v=jx5jmI0UlXU  
@@ -15,7 +15,3 @@ Någon av nedanstående:
 
 # Anteckningar
 Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
-
-
-
-

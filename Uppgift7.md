@@ -1,4 +1,4 @@
-# Uppgift 7 - Flexbox
+# Uppgift 7 – Flexbox
 
 # Teori
 Kolla på video: https://www.youtube.com/watch?v=fYq5PXgSsbE  
