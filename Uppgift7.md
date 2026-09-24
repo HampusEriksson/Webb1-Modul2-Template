@@ -1,12 +1,9 @@
-# Uppgift 7 – Flexbox
+# Uppgift 7 – Grid
 
 # Teori
-Kolla på video: https://www.youtube.com/watch?v=fYq5PXgSsbE  
-Spela flexboxfroggy: https://flexboxfroggy.com/#sv  
-Spela flexboxdefense: http://www.flexboxdefense.com/  
+Kolla på video: https://www.youtube.com/watch?v=9zBsdzdE4sM&t=1s&ab_channel=WebDevSimplified  
+Spela Grid Garden: https://cssgridgarden.com/#sv  
+Spela Css Grid Attack: https://codingfantasy.com/games/css-grid-attack/play  
 
 # Uppgifter
-Använd dig av det du har lärt dig om flexbox för att anpassa din sida.
-
-# Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+Använd dig av det du har lärt dig om Grid för att anpassa din sida.

@@ -1,23 +1,18 @@
-# Uppgift 5 – Färger och bakgrund
+# Uppgift 5 - Box-model
 
 # Teori
-Läs mer: [CSS Colors – Marksheet](https://marksheet.io/css-colors.html)
-Läs mer: [CSS Background – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/background)
-Kolla på video: [CSS Colors & Background](https://www.youtube.com/watch?v=pxeO_GXDTfI)
+Läs mer: https://marksheet.io/css-box-model.html  
+Kolla på video: https://www.youtube.com/watch?v=rIO5326FgPE  
 
 # Uppgifter
-Använd det du har lärt dig om färger och bakgrunder för att anpassa din sida.
+Använd dig av det du har lärt dig om box-model för att anpassa din sida.  
 
-# Följande styling ska finnas med external CSS
-Någon av nedanstående:
-- background-color
-- background-image
-- color (textfärg)
-- Använd minst två olika färgscheman (t.ex. hex, rgb eller named colors)
+# Följande styling ska finnas med external css
+Några av nedanstående:
+1. Padding  
+2. Margin  
+3. Border  
+4. Height / width  
 
-# Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
-
-
-
-
+# Extra övning
+Gör exercise på: https://www.w3schools.com/css/css_boxmodel.asp

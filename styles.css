@@ -1,0 +1,20 @@
+/*
+Exempel elementselector: påverkar alla h1-element
+*/
+h1 {
+  color: darkblue;
+  font-size: 16px;
+}
+
+/*
+Exempel klassselector: påverkar bara element med klassen box
+*/
+.box {
+  background-color: lightgray;
+  padding: 20px;
+  border: 2px solid gray;
+}
+
+/*
+Här kan du fortsätta med din egen styling
+*/

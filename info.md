@@ -1,3 +1,5 @@
+# Läs denna fil med bättre format genom att klicka command + shift + V
+
 # Webb 1 – Modul 2: CSS-styling
 
 ## Beskrivning
@@ -6,9 +8,11 @@ I denna modul ska du bygga en hemsida med modern CSS. Du kommer att lära dig CS
 Du får välja vad hemsidan ska handla om eller ha för innehål.
 
 ## Exempel på innehål
+- Fortsätta på text adventure
 - Restaurang
 - Skola
-- En hemsida som lär ut programmering (eller något annat ämne)
+- En hemsida som lär ut något (t.ex. ett ämne)
+- Presentera din hobby
 - Nyheter
 - Välgörenhetsorganisation
 - Band / artist
@@ -20,7 +24,7 @@ Du får välja vad hemsidan ska handla om eller ha för innehål.
 Ditt repo ska bestå av följande:
 - **index.html** – Startsida
 - **styles.css** – En gemensam CSS-fil för hela hemsidan
-- Eventuellt fler HTML-sidor länkade från navigationen
+- Fler HTML-sidor länkade från navigationen
 
 Exempel på filstruktur (om du valt skola):
 - Startsida (index.html)
@@ -31,26 +35,24 @@ Exempel på filstruktur (om du valt skola):
 Alla HTML-sidor länkas från `<nav>` på huvudsidan. Använd EN css-fil för hela hemsidan.
 
 ## Progressionen (röd tråd)
-Uppgifterna bygger på varandra och introdurerar nya CSS-koncept:
+Uppgifterna bygger på varandra och introducerar nya CSS-koncept i samma hemsida:
 
 1. **Uppgift 1** – Semantiska element och CSS-intro
    - HTML-struktur, externa stylesheets, grundläggande styling
-2. **Uppgift 2** – CSS-selektorer  
-   - Element, klassselektorer, ID-selektorer
-3. **Uppgift 3** – Typografi (Text & Font)
-   - font-family, font-size, font-weight, line-height, text-decoration
-4. **Uppgift 4** – Box-modellen
+2. **Uppgift 2** – CSS-selektorer
+   - Element, klassselektorer, relevanta divar och textblock
+3. **Uppgift 3** – Text / Font
+   - font-family, font-size, font-style, font-weight, line-height, text-decoration
+4. **Uppgift 4** – Färger och bakgrund
+   - background-color, background-image, color, olika färgscheman
+5. **Uppgift 5** – Box-model
    - padding, margin, border, height, width
-5. **Uppgift 5** – Färger och bakgrund
-   - background-color, background-image, color (textfärg)
-6. **Uppgift 6** – Position
-   - relative, absolute, fixed, sticky
-7. **Uppgift 7** – Flexbox
-   - Flexibla layouter med display: flex
-8. **Uppgift 8** – CSS Grid
+6. **Uppgift 6** – Flexbox
+   - Flexibla layouter, exempelvis navbar eller sektioner
+7. **Uppgift 7** – Grid
    - Grid-baserade layouter med display: grid
-9. **Uppgift 9** – Avancerat (Frivillig)
-   - Hover-effekter, gradienter, och egna kreativa lösningar
+8. **Uppgift 8** – Position
+   - relative, absolute, fixed, sticky, "tillbaka till toppen"-knapp
+9. **Uppgift 9** – Hover, transition och gradient
+   - :hover, transition, linear-gradient(), radial-gradient(), extra kreativa effekter
 
-## Checklista
-Kolla checklista innan slutliga inlämningen: https://docs.google.com/document/d/12ln6rmrGx8xSG4exTc-P_p5FhmpoXu-kWJHPTeFpgZc/edit?usp=sharing

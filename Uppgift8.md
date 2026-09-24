@@ -1,12 +1,15 @@
-# Uppgift 8 – Grid
+# Uppgift 8 – Position
 
 # Teori
-Kolla på video: https://www.youtube.com/watch?v=9zBsdzdE4sM&t=1s&ab_channel=WebDevSimplified  
-Spela Grid Garden: https://cssgridgarden.com/#sv  
-Spela Css Grid Attack: https://codingfantasy.com/games/css-grid-attack/play  
+Kolla på video: https://www.youtube.com/watch?v=jx5jmI0UlXU  
 
 # Uppgifter
-Använd dig av det du har lärt dig om Grid för att anpassa din sida.
+Använd dig av det du har lärt dig om position för att anpassa din sida.
+Se till att det finns något element som alltid syns på din sida, förslagsvis navbaren eller en knapp där det står "tillbaka till toppen"  
 
-# Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+# Följande styling ska finnas med external css
+Någon av nedanstående:
+- relative  
+- absolute  
+- fixed  
+- sticky

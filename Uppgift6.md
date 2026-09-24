@@ -1,17 +1,10 @@
-# Uppgift 6 – Position
+# Uppgift 6 – Flexbox
 
 # Teori
-Kolla på video: https://www.youtube.com/watch?v=jx5jmI0UlXU  
+Kolla på video: https://www.youtube.com/watch?v=fYq5PXgSsbE  
+Spela flexboxfroggy: https://flexboxfroggy.com/#sv  
+Spela flexboxdefense: http://www.flexboxdefense.com/  
 
 # Uppgifter
-Använd dig av det du har lärt dig om position för att anpassa din sida.  
-
-# Följande styling ska finnas med external css
-Någon av nedanstående:
-- relative  
-- absolute  
-- fixed  
-- sticky
-
-# Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
+Använd dig av det du har lärt dig om flexbox för att anpassa din sida.
+Använd flex i <nav> för att skapa en snygg navbar

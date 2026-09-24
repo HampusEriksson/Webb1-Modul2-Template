@@ -3,7 +3,7 @@
 # Teori
 Repetera hur man skriver CSS: https://marksheet.io/css-syntax.html 
 Se denna video mellan 0-13min https://www.youtube.com/watch?v=QgxkYbGr2II 
-Lär dig om vilka “selectors” som finns i CSS, alltså hur man kommer åt element: https://marksheet.io/css-selectors.html  svara sedan på följande frågor nedan.
+Lär dig om vilka “selectors” som finns i CSS, alltså hur man kommer åt element: https://marksheet.io/css-selectors.html
 
 # Lektionsövning
 Vi kommer köra spelet https://flukeout.github.io/
@@ -20,5 +20,3 @@ Vi kommer köra spelet https://flukeout.github.io/
 2. Styla klasserna från ovanstående punkt 3 & 4
 3. Styla klassen från ovanstående punkt 5 så att den <h1> har en annan styling än vanliga <h1>
 
-# Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.

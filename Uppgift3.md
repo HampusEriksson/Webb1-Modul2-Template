@@ -15,8 +15,5 @@ Några av nedanstående:
 - font-weight
 - line-height
 - font
-- ttext-decoration
+- text-decoration
 - text-shadow
-
-# Anteckningar
-Anteckna kort här vad du har gjort för förändringar på sidan i denna uppgift.
