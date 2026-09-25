@@ -3,7 +3,7 @@
 # Webb 1 – Modul 2: CSS-styling
 
 ## Beskrivning
-I denna modul ska du bygga en hemsida med modern CSS. Du kommer att lära dig CSS-grunder steg för steg och applicera dem på samma hemsida genom alla 8 uppgifter.
+I denna modul ska du bygga en hemsida med modern CSS. Du kommer att lära dig CSS-grunder steg för steg och applicera dem på samma hemsida genom alla 9 uppgifter.
 
 Du får välja vad hemsidan ska handla om eller ha för innehål.
 
