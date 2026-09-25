@@ -9,7 +9,7 @@ Läs mer: [CSS Gradients – MDN](https://developer.mozilla.org/en-US/docs/Web/C
 Använd dig av de avancerade CSS-teknikerna för att göra hemsidan mer interaktiv och visuell:
 
 1. Gör så att minst ett element på hemsidan påverkas av `:hover`
-   - Förslagsvis länkarna i <nav>
+   - Förslagsvis länkarna i `<nav>`
 2. Lägg till en gradient på något element på din hemsida
    - T.ex. bakgrund med `linear-gradient()` eller `radial-gradient()`
 

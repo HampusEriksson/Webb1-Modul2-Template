@@ -7,4 +7,4 @@ Spela flexboxdefense: http://www.flexboxdefense.com/
 
 # Uppgifter
 Använd dig av det du har lärt dig om flexbox för att anpassa din sida.
-Använd flex i <nav> för att skapa en snygg navbar
+Använd flex i `<nav>` för att skapa en snygg navbar

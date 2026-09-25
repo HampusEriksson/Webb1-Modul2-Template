@@ -3,13 +3,17 @@
 # Att göra 
 
 0. Om du har valt att jobba vidare på en tidigare hemsida så kopierar du in koden/filerna i denna mapp
-1. Skriv en titel på sidan i <title> taggen
-2. Skriv en lämplig rubrik, t.ex. hemsidans namn, i <header> med en <h1> tagg
-3. I <nav> ska du lägga minst 2 relevanta länkar, detta kan vara länkar till .html sidor som du implementerar senare.
-4. I <main> har du 2 sektioner. Välj vad dessa två ska innehålla.
-5. I <footer> ska du skriva kontaktuppgifter till hemsidan. Dessa kan såklart vara fejk.
+1. Skriv en titel på sidan i `<title>` taggen
+2. Skriv en lämplig rubrik, t.ex. hemsidans namn, i `<header>` med en `<h1>` tagg
+3. I `<nav>` ska du lägga minst 2 relevanta länkar, detta kan vara länkar till .html sidor som du implementerar senare.
+4. I `<main>` har du 2 sektioner. Välj vad dessa två ska innehålla.
+5. I `<footer>` ska du skriva kontaktuppgifter till hemsidan. Dessa kan såklart vara fejk.
 
 # Följande styling ska finnas med external css
-1. Ändra på hur <h1> ser ut
-2. Se till att <header> har en bakgrund och eventuellt centrering av texten
-3. Styla <footer>
+1. Ändra på hur `<h1>` ser ut
+2. Se till att `<header>` har en bakgrund och eventuellt centrering av texten
+3. Styla `<footer>`
+
+
+
+
